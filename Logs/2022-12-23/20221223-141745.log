@@ -1,0 +1,4 @@
+2022-12-23 14:17:45,214 - INFO LoginPage.py [line:25]: 【===登录操作===】
+2022-12-23 14:17:45,215 - INFO LoginPage.py [line:33]: 【===打开URL===】
+2022-12-23 14:17:58,398 - INFO BasePage.py [line:288]: 等待"用户名编辑框"元素,定位方式://*[@id="login-form"]/input[1]
+2022-12-23 14:17:58,407 - INFO BasePage.py [line:210]: 在"用户名编辑框"输入"13671707573@163.com",元素定位://*[@id="login-form"]/input[1]

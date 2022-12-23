@@ -1,0 +1,11 @@
+2022-12-23 14:01:52,292 - INFO LoginPage.py [line:25]: 【===登录操作===】
+2022-12-23 14:01:52,294 - INFO LoginPage.py [line:33]: 【===打开URL===】
+2022-12-23 14:02:05,401 - INFO BasePage.py [line:288]: 等待"用户名编辑框"元素,定位方式://*[@id="login-form"]/input[2]
+2022-12-23 14:02:05,413 - INFO BasePage.py [line:210]: 在"用户名编辑框"输入"13671707573@163.com",元素定位://*[@id="login-form"]/input[2]
+2022-12-23 14:02:05,598 - INFO BasePage.py [line:288]: 等待"密码编辑框"元素,定位方式://*[@id="login-form"]/input[3]
+2022-12-23 14:02:05,607 - INFO BasePage.py [line:210]: 在"密码编辑框"输入"admin2003",元素定位://*[@id="login-form"]/input[3]
+2022-12-23 14:02:05,651 - INFO BasePage.py [line:288]: 等待"登录按钮"元素,定位方式://*[@id="login-form"]/button
+2022-12-23 14:02:05,714 - INFO BasePage.py [line:236]: 点击"登录按钮",元素定位://*[@id="login-form"]/button
+2022-12-23 14:02:09,267 - INFO LoginPage.py [line:58]: 【===获取登录成功验证信息===】
+2022-12-23 14:02:09,267 - INFO BasePage.py [line:168]: 获取"登录成功的验证信息"元素文本内容，元素定位://*[@id="main"]/div[2]/div/div[2]/div/div[1]/h3
+2022-12-23 14:02:09,292 - INFO BasePage.py [line:174]: 获取"登录成功的验证信息"元素文本内容为"我的资料库",元素定位://*[@id="main"]/div[2]/div/div[2]/div/div[1]/h3

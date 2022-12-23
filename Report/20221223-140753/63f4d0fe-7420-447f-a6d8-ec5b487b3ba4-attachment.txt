@@ -1,0 +1,11 @@
+INFO     root:LoginPage.py:25 【===登录操作===】
+INFO     root:LoginPage.py:33 【===打开URL===】
+INFO     root:BasePage.py:288 等待"用户名编辑框"元素,定位方式://*[@id="login-form"]/input[2]
+INFO     root:BasePage.py:210 在"用户名编辑框"输入"",元素定位://*[@id="login-form"]/input[2]
+INFO     root:BasePage.py:288 等待"密码编辑框"元素,定位方式://*[@id="login-form"]/input[3]
+INFO     root:BasePage.py:210 在"密码编辑框"输入"admin2003",元素定位://*[@id="login-form"]/input[3]
+INFO     root:BasePage.py:288 等待"登录按钮"元素,定位方式://*[@id="login-form"]/button
+INFO     root:BasePage.py:236 点击"登录按钮",元素定位://*[@id="login-form"]/button
+INFO     root:LoginPage.py:53 【===获取登录失败报错信息===】
+INFO     root:BasePage.py:168 获取"登录失败的验证信息"元素文本内容，元素定位://*[@id="login-form"]/p
+INFO     root:BasePage.py:174 获取"登录失败的验证信息"元素文本内容为"邮箱或用户名不能为空",元素定位://*[@id="login-form"]/p
